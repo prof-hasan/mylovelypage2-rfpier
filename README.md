@@ -65,13 +65,14 @@ O site deve conter:
    </details>
 1. Pelo menos **três páginas**
 1. Uma das páginas deve conter **informações sobre o site**, contendo:
-   - Informação sobre os **autores do site** (o grupo)
+   - Informação sobre o **autor do site**
    - Informação sobre **colaboradores** (se tiver, por exemplo, pessoas além do professor que
      ajudaram)
    - Atribuição de **créditos**:
      - Se estiver usando recursos de terceiros (_e.g._, vídeos, sons, imagens
        etc.), a página deve mostrar quem é o autor de cada um, possivelmente
        com o link apontando onde esse recurso foi encontrado
+   - Itens opicionais realizados
 1. Inclusão de **estilos em arquivo** _CSS_ externo
    <details>
       <summary>Instruções ao estilizar...</summary>
@@ -212,8 +213,7 @@ Seu site já estará configurado e, por ser publico, estará disponível pelo Gi
 Envie o seu site no GitHub do seu repositório. 
 
 **Reivindicação dos itens opcionais**
-Crie um arquivo "itens_opcionais.md" para apresentar os itens opcionais apresentando  evidências que comprovem os itens opcionais implementados... por exemplo, a imagem do Comprehensive Layout, se tiver feito esse item.  
-Este aquivo deve **seguir o formato** usado no exemplo de entrega a seguir:
+Você deverá apresentar uma página web apresentando os itens opcionais realizados. Essa página deve ser acessivel pela página principal pelo menu. O conteúdo deve ser o seguinte: 
 
 **Título do tópico**
 Pagina BioHazard
