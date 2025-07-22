@@ -72,7 +72,7 @@ O site deve conter:
      - Se estiver usando recursos de terceiros (_e.g._, vídeos, sons, imagens
        etc.), a página deve mostrar quem é o autor de cada um, possivelmente
        com o link apontando onde esse recurso foi encontrado
-   - Itens opicionais realizados
+   - Itens opcionais realizados
 1. Inclusão de **estilos em arquivo** _CSS_ externo
    <details>
       <summary>Instruções ao estilizar...</summary>
